@@ -6,7 +6,6 @@
 * Local에서 수정
 * Local에서 Commit
 * Remote로 Push
-* seojun
 
 ###를 연습하기 위해 만들어졌습니다.
 
